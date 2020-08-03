@@ -23,6 +23,6 @@ Key takeaways include:
 
 In the Appendix to this Module, you'll have the opportunity to learn about:  
 
-* The uniform distribution, which represents processes where each outcome is equally likely, like rolling a dice.  
-* The Poisson distribution, which can be used to display the likelihood of a given number of successes over a given time period.  
-* The exponential distribution, which can be used to describe the probability distribution of the amount of time it may take before a given event occurs.
+  - The uniform distribution, which represents processes where each outcome is equally likely, like rolling a dice.  
+  - The Poisson distribution, which can be used to display the likelihood of a given number of successes over a given time period.  
+  - The exponential distribution, which can be used to describe the probability distribution of the amount of time it may take before a given event occurs.
